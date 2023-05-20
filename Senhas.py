@@ -5,7 +5,6 @@ from tkinter import ttk
 from PIL import ImageTk, Image
 
 # Cores ---------------------------
-
 color0 = '#444466'  # Preta / Black
 color1 = '#feffff'  # Branca / White
 color2 = '#f05a43'  # Vermelha / Red
@@ -34,3 +33,4 @@ estilo = ttk.Style(janela)
 estilo.theme_use('clam')
 
 janela.mainloop()
+
