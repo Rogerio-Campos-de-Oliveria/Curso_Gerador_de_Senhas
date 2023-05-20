@@ -34,3 +34,6 @@ estilo.theme_use('clam')
 
 janela.mainloop()
 
+
+teste novas informações
+
