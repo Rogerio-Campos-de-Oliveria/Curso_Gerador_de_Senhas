@@ -59,7 +59,7 @@ def criar_senha():
     if estado_1.get() == alfabeto_maior:
         combinar = alfabeto_maior
     else:
-        pass
+        combinar = ''
 
     # --- Condição para Minuscula
     if estado_2.get() == alfabeto_menor:
