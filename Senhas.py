@@ -1,3 +1,7 @@
+''' Curso passado pelo João do canal Usando Python
+https://www.youtube.com/watch?v=G5HFXYovADU&list=PLGFzROSPU9oV2i7VneMFAYplaNwlc7Cz1 '''
+
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
